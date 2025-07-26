@@ -4,9 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kanishka-mohankumar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Kanishka--mohankumar-blue?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
   <a href="mailto:kanishkamohan223@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-kanishkamohan223@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
