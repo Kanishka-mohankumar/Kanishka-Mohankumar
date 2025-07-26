@@ -41,7 +41,7 @@ I'm **Kanishka Mohankumar**, a passionate and goal-driven Computer Science under
 | Title                          | Type             | Repository                                                                 |
 |--------------------------------|------------------|----------------------------------------------------------------------------|
 | 💳 Advanced Billing System     | Frontend Project | [View on GitHub ↗](https://github.com/Kanishka-mohankumar/Billing-System) |
-| 🧬 CHD Detection Model         | ML Research      | [View on GitHub ↗](https://github.com/Kanishka-mohankumar/CHD-Prediction) |
+| 🧬 CHD Detection Model         | ML Research      | [View on GitHub ↗](https://github.com/Kanishka-mohankumar/CHD-Disease-Prediction) |
 
 ---
 
