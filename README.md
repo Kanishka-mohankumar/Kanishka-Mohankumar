@@ -61,7 +61,7 @@ Key Focus: Data Structures, AI/ML, Data Analysis, Full Stack Web Development
 ## 📬 Contact
 
 - 📧 Email: [kanishkamohan223@gmail.com](mailto:kanishkamohan223@gmail.com)  
-- 💼 LinkedIn: [Kanishka Mohankumar](https://www.linkedin.com/in/kanishka-mohankumar/)
+- 💼 LinkedIn: [Kanishka Mohankumar](https://www.linkedin.com/in/kanishka-mohankumar-099742303/)
 
 ---
 
