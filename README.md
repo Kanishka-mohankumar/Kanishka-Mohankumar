@@ -10,7 +10,7 @@
   <a href="mailto:kanishkamohan223@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-kanishkamohan223@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/kanishka-mohan-96550b35b/" target="_blank">
+  <a href="https://www.linkedin.com/in/kanishka-mohankumar-099742303/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kanishka%20Mohankumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
